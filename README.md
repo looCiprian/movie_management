@@ -1,4 +1,4 @@
-# Movie Managemen
+# Movie Management
 
 
 ## Simple web application to list, add, delete and modify movies.
